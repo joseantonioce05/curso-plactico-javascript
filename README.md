@@ -16,3 +16,10 @@ Curso Platico de Javascript de Platzi
 - Segundo paso: implemntar la fórmulas en JavaScript
 - Tercer paso: crear funciones
 - Cuarto paso: integrar JS con HTML 
+
+## Taller #2: promedio, mediana y moda
+
+- Primer paso: definir las fórmulas
+- Segundo paso: implemntar la fórmulas en JavaScript
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML 
